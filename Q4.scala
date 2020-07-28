@@ -5,6 +5,7 @@ object Q4{
     var y=385.0f;
     m = m + y/1760;
     var km = m*1.609;
+    var m = km*1000;
     
     println(km);
   }
