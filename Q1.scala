@@ -1,7 +1,7 @@
 object Q1{
   
   def main(args: Array[String]){
-  	var k, i, j = 2;
+  	var k, i, j,a = 2;
 	var m, n = 5;
 	var f = 12.0f;
 	var g = 4.0f;
@@ -14,6 +14,8 @@ object Q1{
     println(f+10*5+g);
     println((i+1)*n);
 	i=i+1;
+	a = i + 2;
+	  
    }  
 }
 
