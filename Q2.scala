@@ -15,6 +15,7 @@ object Q2{
     a=a-1;
 	println (-2*(g-k)+c);
     c+=1;
+	  c+=5;
 	println (c);
 	c=c+1;
 	c=c*a
